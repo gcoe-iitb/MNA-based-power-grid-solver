@@ -1,0 +1,2056 @@
+
+
+GRAPH STAT:
+Total node:           250000
+Total edge:           749001
+Voltage source:       1000
+Current source:       249001
+
+
+ Initialization done
+
+
+ nonzero = 2000000
+
+ Entering 1st loop
+
+ Exiting first loop
+
+ Nonzero established = 1250000
+
+ Function done
+
+MATRIX STAT:
+Nonzero elements:               1250000
+Number of Rows:                 251000
+Nonzero in G:			1248000
+Number of rows in G:		250000
+Nonzero in P: 			1000
+Number of rows in P:		250000
+MAT val:		       
+
+ Fine till here
+
+ Fine till here
+
+ Allocating GPU memory
+
+ Free Mem = 10065.183594 MB, Total mem = 12287.812500 MB
+
+ Initiating CHOLMOD
+
+ m = 250000, G.Gnonzero = 1248000
+
+ CHOLMOD manually set
+CHOLMOD sparse:  A:  250000-by-250000, nz 1248000, upper.  OK
+CHOLMOD dense:   b:  250000-by-1,   OK
+
+ Time : 20926.583984 secs :
+CHOLMOD dense:   X:  250000-by-1,   OK
+
+ Solved for 0-th column 
+
+ Solved for 1-th column 
+
+ Solved for 2-th column 
+
+ Solved for 3-th column 
+
+ Solved for 4-th column 
+
+ Solved for 5-th column 
+
+ Solved for 6-th column 
+
+ Solved for 7-th column 
+
+ Solved for 8-th column 
+
+ Solved for 9-th column 
+
+ Solved for 10-th column 
+
+ Solved for 11-th column 
+
+ Solved for 12-th column 
+
+ Solved for 13-th column 
+
+ Solved for 14-th column 
+
+ Solved for 15-th column 
+
+ Solved for 16-th column 
+
+ Solved for 17-th column 
+
+ Solved for 18-th column 
+
+ Solved for 19-th column 
+
+ Solved for 20-th column 
+
+ Solved for 21-th column 
+
+ Solved for 22-th column 
+
+ Solved for 23-th column 
+
+ Solved for 24-th column 
+
+ Solved for 25-th column 
+
+ Solved for 26-th column 
+
+ Solved for 27-th column 
+
+ Solved for 28-th column 
+
+ Solved for 29-th column 
+
+ Solved for 30-th column 
+
+ Solved for 31-th column 
+
+ Solved for 32-th column 
+
+ Solved for 33-th column 
+
+ Solved for 34-th column 
+
+ Solved for 35-th column 
+
+ Solved for 36-th column 
+
+ Solved for 37-th column 
+
+ Solved for 38-th column 
+
+ Solved for 39-th column 
+
+ Solved for 40-th column 
+
+ Solved for 41-th column 
+
+ Solved for 42-th column 
+
+ Solved for 43-th column 
+
+ Solved for 44-th column 
+
+ Solved for 45-th column 
+
+ Solved for 46-th column 
+
+ Solved for 47-th column 
+
+ Solved for 48-th column 
+
+ Solved for 49-th column 
+
+ Solved for 50-th column 
+
+ Solved for 51-th column 
+
+ Solved for 52-th column 
+
+ Solved for 53-th column 
+
+ Solved for 54-th column 
+
+ Solved for 55-th column 
+
+ Solved for 56-th column 
+
+ Solved for 57-th column 
+
+ Solved for 58-th column 
+
+ Solved for 59-th column 
+
+ Solved for 60-th column 
+
+ Solved for 61-th column 
+
+ Solved for 62-th column 
+
+ Solved for 63-th column 
+
+ Solved for 64-th column 
+
+ Solved for 65-th column 
+
+ Solved for 66-th column 
+
+ Solved for 67-th column 
+
+ Solved for 68-th column 
+
+ Solved for 69-th column 
+
+ Solved for 70-th column 
+
+ Solved for 71-th column 
+
+ Solved for 72-th column 
+
+ Solved for 73-th column 
+
+ Solved for 74-th column 
+
+ Solved for 75-th column 
+
+ Solved for 76-th column 
+
+ Solved for 77-th column 
+
+ Solved for 78-th column 
+
+ Solved for 79-th column 
+
+ Solved for 80-th column 
+
+ Solved for 81-th column 
+
+ Solved for 82-th column 
+
+ Solved for 83-th column 
+
+ Solved for 84-th column 
+
+ Solved for 85-th column 
+
+ Solved for 86-th column 
+
+ Solved for 87-th column 
+
+ Solved for 88-th column 
+
+ Solved for 89-th column 
+
+ Solved for 90-th column 
+
+ Solved for 91-th column 
+
+ Solved for 92-th column 
+
+ Solved for 93-th column 
+
+ Solved for 94-th column 
+
+ Solved for 95-th column 
+
+ Solved for 96-th column 
+
+ Solved for 97-th column 
+
+ Solved for 98-th column 
+
+ Solved for 99-th column 
+
+ Solved for 100-th column 
+
+ Solved for 101-th column 
+
+ Solved for 102-th column 
+
+ Solved for 103-th column 
+
+ Solved for 104-th column 
+
+ Solved for 105-th column 
+
+ Solved for 106-th column 
+
+ Solved for 107-th column 
+
+ Solved for 108-th column 
+
+ Solved for 109-th column 
+
+ Solved for 110-th column 
+
+ Solved for 111-th column 
+
+ Solved for 112-th column 
+
+ Solved for 113-th column 
+
+ Solved for 114-th column 
+
+ Solved for 115-th column 
+
+ Solved for 116-th column 
+
+ Solved for 117-th column 
+
+ Solved for 118-th column 
+
+ Solved for 119-th column 
+
+ Solved for 120-th column 
+
+ Solved for 121-th column 
+
+ Solved for 122-th column 
+
+ Solved for 123-th column 
+
+ Solved for 124-th column 
+
+ Solved for 125-th column 
+
+ Solved for 126-th column 
+
+ Solved for 127-th column 
+
+ Solved for 128-th column 
+
+ Solved for 129-th column 
+
+ Solved for 130-th column 
+
+ Solved for 131-th column 
+
+ Solved for 132-th column 
+
+ Solved for 133-th column 
+
+ Solved for 134-th column 
+
+ Solved for 135-th column 
+
+ Solved for 136-th column 
+
+ Solved for 137-th column 
+
+ Solved for 138-th column 
+
+ Solved for 139-th column 
+
+ Solved for 140-th column 
+
+ Solved for 141-th column 
+
+ Solved for 142-th column 
+
+ Solved for 143-th column 
+
+ Solved for 144-th column 
+
+ Solved for 145-th column 
+
+ Solved for 146-th column 
+
+ Solved for 147-th column 
+
+ Solved for 148-th column 
+
+ Solved for 149-th column 
+
+ Solved for 150-th column 
+
+ Solved for 151-th column 
+
+ Solved for 152-th column 
+
+ Solved for 153-th column 
+
+ Solved for 154-th column 
+
+ Solved for 155-th column 
+
+ Solved for 156-th column 
+
+ Solved for 157-th column 
+
+ Solved for 158-th column 
+
+ Solved for 159-th column 
+
+ Solved for 160-th column 
+
+ Solved for 161-th column 
+
+ Solved for 162-th column 
+
+ Solved for 163-th column 
+
+ Solved for 164-th column 
+
+ Solved for 165-th column 
+
+ Solved for 166-th column 
+
+ Solved for 167-th column 
+
+ Solved for 168-th column 
+
+ Solved for 169-th column 
+
+ Solved for 170-th column 
+
+ Solved for 171-th column 
+
+ Solved for 172-th column 
+
+ Solved for 173-th column 
+
+ Solved for 174-th column 
+
+ Solved for 175-th column 
+
+ Solved for 176-th column 
+
+ Solved for 177-th column 
+
+ Solved for 178-th column 
+
+ Solved for 179-th column 
+
+ Solved for 180-th column 
+
+ Solved for 181-th column 
+
+ Solved for 182-th column 
+
+ Solved for 183-th column 
+
+ Solved for 184-th column 
+
+ Solved for 185-th column 
+
+ Solved for 186-th column 
+
+ Solved for 187-th column 
+
+ Solved for 188-th column 
+
+ Solved for 189-th column 
+
+ Solved for 190-th column 
+
+ Solved for 191-th column 
+
+ Solved for 192-th column 
+
+ Solved for 193-th column 
+
+ Solved for 194-th column 
+
+ Solved for 195-th column 
+
+ Solved for 196-th column 
+
+ Solved for 197-th column 
+
+ Solved for 198-th column 
+
+ Solved for 199-th column 
+
+ Solved for 200-th column 
+
+ Solved for 201-th column 
+
+ Solved for 202-th column 
+
+ Solved for 203-th column 
+
+ Solved for 204-th column 
+
+ Solved for 205-th column 
+
+ Solved for 206-th column 
+
+ Solved for 207-th column 
+
+ Solved for 208-th column 
+
+ Solved for 209-th column 
+
+ Solved for 210-th column 
+
+ Solved for 211-th column 
+
+ Solved for 212-th column 
+
+ Solved for 213-th column 
+
+ Solved for 214-th column 
+
+ Solved for 215-th column 
+
+ Solved for 216-th column 
+
+ Solved for 217-th column 
+
+ Solved for 218-th column 
+
+ Solved for 219-th column 
+
+ Solved for 220-th column 
+
+ Solved for 221-th column 
+
+ Solved for 222-th column 
+
+ Solved for 223-th column 
+
+ Solved for 224-th column 
+
+ Solved for 225-th column 
+
+ Solved for 226-th column 
+
+ Solved for 227-th column 
+
+ Solved for 228-th column 
+
+ Solved for 229-th column 
+
+ Solved for 230-th column 
+
+ Solved for 231-th column 
+
+ Solved for 232-th column 
+
+ Solved for 233-th column 
+
+ Solved for 234-th column 
+
+ Solved for 235-th column 
+
+ Solved for 236-th column 
+
+ Solved for 237-th column 
+
+ Solved for 238-th column 
+
+ Solved for 239-th column 
+
+ Solved for 240-th column 
+
+ Solved for 241-th column 
+
+ Solved for 242-th column 
+
+ Solved for 243-th column 
+
+ Solved for 244-th column 
+
+ Solved for 245-th column 
+
+ Solved for 246-th column 
+
+ Solved for 247-th column 
+
+ Solved for 248-th column 
+
+ Solved for 249-th column 
+
+ Solved for 250-th column 
+
+ Solved for 251-th column 
+
+ Solved for 252-th column 
+
+ Solved for 253-th column 
+
+ Solved for 254-th column 
+
+ Solved for 255-th column 
+
+ Solved for 256-th column 
+
+ Solved for 257-th column 
+
+ Solved for 258-th column 
+
+ Solved for 259-th column 
+
+ Solved for 260-th column 
+
+ Solved for 261-th column 
+
+ Solved for 262-th column 
+
+ Solved for 263-th column 
+
+ Solved for 264-th column 
+
+ Solved for 265-th column 
+
+ Solved for 266-th column 
+
+ Solved for 267-th column 
+
+ Solved for 268-th column 
+
+ Solved for 269-th column 
+
+ Solved for 270-th column 
+
+ Solved for 271-th column 
+
+ Solved for 272-th column 
+
+ Solved for 273-th column 
+
+ Solved for 274-th column 
+
+ Solved for 275-th column 
+
+ Solved for 276-th column 
+
+ Solved for 277-th column 
+
+ Solved for 278-th column 
+
+ Solved for 279-th column 
+
+ Solved for 280-th column 
+
+ Solved for 281-th column 
+
+ Solved for 282-th column 
+
+ Solved for 283-th column 
+
+ Solved for 284-th column 
+
+ Solved for 285-th column 
+
+ Solved for 286-th column 
+
+ Solved for 287-th column 
+
+ Solved for 288-th column 
+
+ Solved for 289-th column 
+
+ Solved for 290-th column 
+
+ Solved for 291-th column 
+
+ Solved for 292-th column 
+
+ Solved for 293-th column 
+
+ Solved for 294-th column 
+
+ Solved for 295-th column 
+
+ Solved for 296-th column 
+
+ Solved for 297-th column 
+
+ Solved for 298-th column 
+
+ Solved for 299-th column 
+
+ Solved for 300-th column 
+
+ Solved for 301-th column 
+
+ Solved for 302-th column 
+
+ Solved for 303-th column 
+
+ Solved for 304-th column 
+
+ Solved for 305-th column 
+
+ Solved for 306-th column 
+
+ Solved for 307-th column 
+
+ Solved for 308-th column 
+
+ Solved for 309-th column 
+
+ Solved for 310-th column 
+
+ Solved for 311-th column 
+
+ Solved for 312-th column 
+
+ Solved for 313-th column 
+
+ Solved for 314-th column 
+
+ Solved for 315-th column 
+
+ Solved for 316-th column 
+
+ Solved for 317-th column 
+
+ Solved for 318-th column 
+
+ Solved for 319-th column 
+
+ Solved for 320-th column 
+
+ Solved for 321-th column 
+
+ Solved for 322-th column 
+
+ Solved for 323-th column 
+
+ Solved for 324-th column 
+
+ Solved for 325-th column 
+
+ Solved for 326-th column 
+
+ Solved for 327-th column 
+
+ Solved for 328-th column 
+
+ Solved for 329-th column 
+
+ Solved for 330-th column 
+
+ Solved for 331-th column 
+
+ Solved for 332-th column 
+
+ Solved for 333-th column 
+
+ Solved for 334-th column 
+
+ Solved for 335-th column 
+
+ Solved for 336-th column 
+
+ Solved for 337-th column 
+
+ Solved for 338-th column 
+
+ Solved for 339-th column 
+
+ Solved for 340-th column 
+
+ Solved for 341-th column 
+
+ Solved for 342-th column 
+
+ Solved for 343-th column 
+
+ Solved for 344-th column 
+
+ Solved for 345-th column 
+
+ Solved for 346-th column 
+
+ Solved for 347-th column 
+
+ Solved for 348-th column 
+
+ Solved for 349-th column 
+
+ Solved for 350-th column 
+
+ Solved for 351-th column 
+
+ Solved for 352-th column 
+
+ Solved for 353-th column 
+
+ Solved for 354-th column 
+
+ Solved for 355-th column 
+
+ Solved for 356-th column 
+
+ Solved for 357-th column 
+
+ Solved for 358-th column 
+
+ Solved for 359-th column 
+
+ Solved for 360-th column 
+
+ Solved for 361-th column 
+
+ Solved for 362-th column 
+
+ Solved for 363-th column 
+
+ Solved for 364-th column 
+
+ Solved for 365-th column 
+
+ Solved for 366-th column 
+
+ Solved for 367-th column 
+
+ Solved for 368-th column 
+
+ Solved for 369-th column 
+
+ Solved for 370-th column 
+
+ Solved for 371-th column 
+
+ Solved for 372-th column 
+
+ Solved for 373-th column 
+
+ Solved for 374-th column 
+
+ Solved for 375-th column 
+
+ Solved for 376-th column 
+
+ Solved for 377-th column 
+
+ Solved for 378-th column 
+
+ Solved for 379-th column 
+
+ Solved for 380-th column 
+
+ Solved for 381-th column 
+
+ Solved for 382-th column 
+
+ Solved for 383-th column 
+
+ Solved for 384-th column 
+
+ Solved for 385-th column 
+
+ Solved for 386-th column 
+
+ Solved for 387-th column 
+
+ Solved for 388-th column 
+
+ Solved for 389-th column 
+
+ Solved for 390-th column 
+
+ Solved for 391-th column 
+
+ Solved for 392-th column 
+
+ Solved for 393-th column 
+
+ Solved for 394-th column 
+
+ Solved for 395-th column 
+
+ Solved for 396-th column 
+
+ Solved for 397-th column 
+
+ Solved for 398-th column 
+
+ Solved for 399-th column 
+
+ Solved for 400-th column 
+
+ Solved for 401-th column 
+
+ Solved for 402-th column 
+
+ Solved for 403-th column 
+
+ Solved for 404-th column 
+
+ Solved for 405-th column 
+
+ Solved for 406-th column 
+
+ Solved for 407-th column 
+
+ Solved for 408-th column 
+
+ Solved for 409-th column 
+
+ Solved for 410-th column 
+
+ Solved for 411-th column 
+
+ Solved for 412-th column 
+
+ Solved for 413-th column 
+
+ Solved for 414-th column 
+
+ Solved for 415-th column 
+
+ Solved for 416-th column 
+
+ Solved for 417-th column 
+
+ Solved for 418-th column 
+
+ Solved for 419-th column 
+
+ Solved for 420-th column 
+
+ Solved for 421-th column 
+
+ Solved for 422-th column 
+
+ Solved for 423-th column 
+
+ Solved for 424-th column 
+
+ Solved for 425-th column 
+
+ Solved for 426-th column 
+
+ Solved for 427-th column 
+
+ Solved for 428-th column 
+
+ Solved for 429-th column 
+
+ Solved for 430-th column 
+
+ Solved for 431-th column 
+
+ Solved for 432-th column 
+
+ Solved for 433-th column 
+
+ Solved for 434-th column 
+
+ Solved for 435-th column 
+
+ Solved for 436-th column 
+
+ Solved for 437-th column 
+
+ Solved for 438-th column 
+
+ Solved for 439-th column 
+
+ Solved for 440-th column 
+
+ Solved for 441-th column 
+
+ Solved for 442-th column 
+
+ Solved for 443-th column 
+
+ Solved for 444-th column 
+
+ Solved for 445-th column 
+
+ Solved for 446-th column 
+
+ Solved for 447-th column 
+
+ Solved for 448-th column 
+
+ Solved for 449-th column 
+
+ Solved for 450-th column 
+
+ Solved for 451-th column 
+
+ Solved for 452-th column 
+
+ Solved for 453-th column 
+
+ Solved for 454-th column 
+
+ Solved for 455-th column 
+
+ Solved for 456-th column 
+
+ Solved for 457-th column 
+
+ Solved for 458-th column 
+
+ Solved for 459-th column 
+
+ Solved for 460-th column 
+
+ Solved for 461-th column 
+
+ Solved for 462-th column 
+
+ Solved for 463-th column 
+
+ Solved for 464-th column 
+
+ Solved for 465-th column 
+
+ Solved for 466-th column 
+
+ Solved for 467-th column 
+
+ Solved for 468-th column 
+
+ Solved for 469-th column 
+
+ Solved for 470-th column 
+
+ Solved for 471-th column 
+
+ Solved for 472-th column 
+
+ Solved for 473-th column 
+
+ Solved for 474-th column 
+
+ Solved for 475-th column 
+
+ Solved for 476-th column 
+
+ Solved for 477-th column 
+
+ Solved for 478-th column 
+
+ Solved for 479-th column 
+
+ Solved for 480-th column 
+
+ Solved for 481-th column 
+
+ Solved for 482-th column 
+
+ Solved for 483-th column 
+
+ Solved for 484-th column 
+
+ Solved for 485-th column 
+
+ Solved for 486-th column 
+
+ Solved for 487-th column 
+
+ Solved for 488-th column 
+
+ Solved for 489-th column 
+
+ Solved for 490-th column 
+
+ Solved for 491-th column 
+
+ Solved for 492-th column 
+
+ Solved for 493-th column 
+
+ Solved for 494-th column 
+
+ Solved for 495-th column 
+
+ Solved for 496-th column 
+
+ Solved for 497-th column 
+
+ Solved for 498-th column 
+
+ Solved for 499-th column 
+
+ Solved for 500-th column 
+
+ Solved for 501-th column 
+
+ Solved for 502-th column 
+
+ Solved for 503-th column 
+
+ Solved for 504-th column 
+
+ Solved for 505-th column 
+
+ Solved for 506-th column 
+
+ Solved for 507-th column 
+
+ Solved for 508-th column 
+
+ Solved for 509-th column 
+
+ Solved for 510-th column 
+
+ Solved for 511-th column 
+
+ Solved for 512-th column 
+
+ Solved for 513-th column 
+
+ Solved for 514-th column 
+
+ Solved for 515-th column 
+
+ Solved for 516-th column 
+
+ Solved for 517-th column 
+
+ Solved for 518-th column 
+
+ Solved for 519-th column 
+
+ Solved for 520-th column 
+
+ Solved for 521-th column 
+
+ Solved for 522-th column 
+
+ Solved for 523-th column 
+
+ Solved for 524-th column 
+
+ Solved for 525-th column 
+
+ Solved for 526-th column 
+
+ Solved for 527-th column 
+
+ Solved for 528-th column 
+
+ Solved for 529-th column 
+
+ Solved for 530-th column 
+
+ Solved for 531-th column 
+
+ Solved for 532-th column 
+
+ Solved for 533-th column 
+
+ Solved for 534-th column 
+
+ Solved for 535-th column 
+
+ Solved for 536-th column 
+
+ Solved for 537-th column 
+
+ Solved for 538-th column 
+
+ Solved for 539-th column 
+
+ Solved for 540-th column 
+
+ Solved for 541-th column 
+
+ Solved for 542-th column 
+
+ Solved for 543-th column 
+
+ Solved for 544-th column 
+
+ Solved for 545-th column 
+
+ Solved for 546-th column 
+
+ Solved for 547-th column 
+
+ Solved for 548-th column 
+
+ Solved for 549-th column 
+
+ Solved for 550-th column 
+
+ Solved for 551-th column 
+
+ Solved for 552-th column 
+
+ Solved for 553-th column 
+
+ Solved for 554-th column 
+
+ Solved for 555-th column 
+
+ Solved for 556-th column 
+
+ Solved for 557-th column 
+
+ Solved for 558-th column 
+
+ Solved for 559-th column 
+
+ Solved for 560-th column 
+
+ Solved for 561-th column 
+
+ Solved for 562-th column 
+
+ Solved for 563-th column 
+
+ Solved for 564-th column 
+
+ Solved for 565-th column 
+
+ Solved for 566-th column 
+
+ Solved for 567-th column 
+
+ Solved for 568-th column 
+
+ Solved for 569-th column 
+
+ Solved for 570-th column 
+
+ Solved for 571-th column 
+
+ Solved for 572-th column 
+
+ Solved for 573-th column 
+
+ Solved for 574-th column 
+
+ Solved for 575-th column 
+
+ Solved for 576-th column 
+
+ Solved for 577-th column 
+
+ Solved for 578-th column 
+
+ Solved for 579-th column 
+
+ Solved for 580-th column 
+
+ Solved for 581-th column 
+
+ Solved for 582-th column 
+
+ Solved for 583-th column 
+
+ Solved for 584-th column 
+
+ Solved for 585-th column 
+
+ Solved for 586-th column 
+
+ Solved for 587-th column 
+
+ Solved for 588-th column 
+
+ Solved for 589-th column 
+
+ Solved for 590-th column 
+
+ Solved for 591-th column 
+
+ Solved for 592-th column 
+
+ Solved for 593-th column 
+
+ Solved for 594-th column 
+
+ Solved for 595-th column 
+
+ Solved for 596-th column 
+
+ Solved for 597-th column 
+
+ Solved for 598-th column 
+
+ Solved for 599-th column 
+
+ Solved for 600-th column 
+
+ Solved for 601-th column 
+
+ Solved for 602-th column 
+
+ Solved for 603-th column 
+
+ Solved for 604-th column 
+
+ Solved for 605-th column 
+
+ Solved for 606-th column 
+
+ Solved for 607-th column 
+
+ Solved for 608-th column 
+
+ Solved for 609-th column 
+
+ Solved for 610-th column 
+
+ Solved for 611-th column 
+
+ Solved for 612-th column 
+
+ Solved for 613-th column 
+
+ Solved for 614-th column 
+
+ Solved for 615-th column 
+
+ Solved for 616-th column 
+
+ Solved for 617-th column 
+
+ Solved for 618-th column 
+
+ Solved for 619-th column 
+
+ Solved for 620-th column 
+
+ Solved for 621-th column 
+
+ Solved for 622-th column 
+
+ Solved for 623-th column 
+
+ Solved for 624-th column 
+
+ Solved for 625-th column 
+
+ Solved for 626-th column 
+
+ Solved for 627-th column 
+
+ Solved for 628-th column 
+
+ Solved for 629-th column 
+
+ Solved for 630-th column 
+
+ Solved for 631-th column 
+
+ Solved for 632-th column 
+
+ Solved for 633-th column 
+
+ Solved for 634-th column 
+
+ Solved for 635-th column 
+
+ Solved for 636-th column 
+
+ Solved for 637-th column 
+
+ Solved for 638-th column 
+
+ Solved for 639-th column 
+
+ Solved for 640-th column 
+
+ Solved for 641-th column 
+
+ Solved for 642-th column 
+
+ Solved for 643-th column 
+
+ Solved for 644-th column 
+
+ Solved for 645-th column 
+
+ Solved for 646-th column 
+
+ Solved for 647-th column 
+
+ Solved for 648-th column 
+
+ Solved for 649-th column 
+
+ Solved for 650-th column 
+
+ Solved for 651-th column 
+
+ Solved for 652-th column 
+
+ Solved for 653-th column 
+
+ Solved for 654-th column 
+
+ Solved for 655-th column 
+
+ Solved for 656-th column 
+
+ Solved for 657-th column 
+
+ Solved for 658-th column 
+
+ Solved for 659-th column 
+
+ Solved for 660-th column 
+
+ Solved for 661-th column 
+
+ Solved for 662-th column 
+
+ Solved for 663-th column 
+
+ Solved for 664-th column 
+
+ Solved for 665-th column 
+
+ Solved for 666-th column 
+
+ Solved for 667-th column 
+
+ Solved for 668-th column 
+
+ Solved for 669-th column 
+
+ Solved for 670-th column 
+
+ Solved for 671-th column 
+
+ Solved for 672-th column 
+
+ Solved for 673-th column 
+
+ Solved for 674-th column 
+
+ Solved for 675-th column 
+
+ Solved for 676-th column 
+
+ Solved for 677-th column 
+
+ Solved for 678-th column 
+
+ Solved for 679-th column 
+
+ Solved for 680-th column 
+
+ Solved for 681-th column 
+
+ Solved for 682-th column 
+
+ Solved for 683-th column 
+
+ Solved for 684-th column 
+
+ Solved for 685-th column 
+
+ Solved for 686-th column 
+
+ Solved for 687-th column 
+
+ Solved for 688-th column 
+
+ Solved for 689-th column 
+
+ Solved for 690-th column 
+
+ Solved for 691-th column 
+
+ Solved for 692-th column 
+
+ Solved for 693-th column 
+
+ Solved for 694-th column 
+
+ Solved for 695-th column 
+
+ Solved for 696-th column 
+
+ Solved for 697-th column 
+
+ Solved for 698-th column 
+
+ Solved for 699-th column 
+
+ Solved for 700-th column 
+
+ Solved for 701-th column 
+
+ Solved for 702-th column 
+
+ Solved for 703-th column 
+
+ Solved for 704-th column 
+
+ Solved for 705-th column 
+
+ Solved for 706-th column 
+
+ Solved for 707-th column 
+
+ Solved for 708-th column 
+
+ Solved for 709-th column 
+
+ Solved for 710-th column 
+
+ Solved for 711-th column 
+
+ Solved for 712-th column 
+
+ Solved for 713-th column 
+
+ Solved for 714-th column 
+
+ Solved for 715-th column 
+
+ Solved for 716-th column 
+
+ Solved for 717-th column 
+
+ Solved for 718-th column 
+
+ Solved for 719-th column 
+
+ Solved for 720-th column 
+
+ Solved for 721-th column 
+
+ Solved for 722-th column 
+
+ Solved for 723-th column 
+
+ Solved for 724-th column 
+
+ Solved for 725-th column 
+
+ Solved for 726-th column 
+
+ Solved for 727-th column 
+
+ Solved for 728-th column 
+
+ Solved for 729-th column 
+
+ Solved for 730-th column 
+
+ Solved for 731-th column 
+
+ Solved for 732-th column 
+
+ Solved for 733-th column 
+
+ Solved for 734-th column 
+
+ Solved for 735-th column 
+
+ Solved for 736-th column 
+
+ Solved for 737-th column 
+
+ Solved for 738-th column 
+
+ Solved for 739-th column 
+
+ Solved for 740-th column 
+
+ Solved for 741-th column 
+
+ Solved for 742-th column 
+
+ Solved for 743-th column 
+
+ Solved for 744-th column 
+
+ Solved for 745-th column 
+
+ Solved for 746-th column 
+
+ Solved for 747-th column 
+
+ Solved for 748-th column 
+
+ Solved for 749-th column 
+
+ Solved for 750-th column 
+
+ Solved for 751-th column 
+
+ Solved for 752-th column 
+
+ Solved for 753-th column 
+
+ Solved for 754-th column 
+
+ Solved for 755-th column 
+
+ Solved for 756-th column 
+
+ Solved for 757-th column 
+
+ Solved for 758-th column 
+
+ Solved for 759-th column 
+
+ Solved for 760-th column 
+
+ Solved for 761-th column 
+
+ Solved for 762-th column 
+
+ Solved for 763-th column 
+
+ Solved for 764-th column 
+
+ Solved for 765-th column 
+
+ Solved for 766-th column 
+
+ Solved for 767-th column 
+
+ Solved for 768-th column 
+
+ Solved for 769-th column 
+
+ Solved for 770-th column 
+
+ Solved for 771-th column 
+
+ Solved for 772-th column 
+
+ Solved for 773-th column 
+
+ Solved for 774-th column 
+
+ Solved for 775-th column 
+
+ Solved for 776-th column 
+
+ Solved for 777-th column 
+
+ Solved for 778-th column 
+
+ Solved for 779-th column 
+
+ Solved for 780-th column 
+
+ Solved for 781-th column 
+
+ Solved for 782-th column 
+
+ Solved for 783-th column 
+
+ Solved for 784-th column 
+
+ Solved for 785-th column 
+
+ Solved for 786-th column 
+
+ Solved for 787-th column 
+
+ Solved for 788-th column 
+
+ Solved for 789-th column 
+
+ Solved for 790-th column 
+
+ Solved for 791-th column 
+
+ Solved for 792-th column 
+
+ Solved for 793-th column 
+
+ Solved for 794-th column 
+
+ Solved for 795-th column 
+
+ Solved for 796-th column 
+
+ Solved for 797-th column 
+
+ Solved for 798-th column 
+
+ Solved for 799-th column 
+
+ Solved for 800-th column 
+
+ Solved for 801-th column 
+
+ Solved for 802-th column 
+
+ Solved for 803-th column 
+
+ Solved for 804-th column 
+
+ Solved for 805-th column 
+
+ Solved for 806-th column 
+
+ Solved for 807-th column 
+
+ Solved for 808-th column 
+
+ Solved for 809-th column 
+
+ Solved for 810-th column 
+
+ Solved for 811-th column 
+
+ Solved for 812-th column 
+
+ Solved for 813-th column 
+
+ Solved for 814-th column 
+
+ Solved for 815-th column 
+
+ Solved for 816-th column 
+
+ Solved for 817-th column 
+
+ Solved for 818-th column 
+
+ Solved for 819-th column 
+
+ Solved for 820-th column 
+
+ Solved for 821-th column 
+
+ Solved for 822-th column 
+
+ Solved for 823-th column 
+
+ Solved for 824-th column 
+
+ Solved for 825-th column 
+
+ Solved for 826-th column 
+
+ Solved for 827-th column 
+
+ Solved for 828-th column 
+
+ Solved for 829-th column 
+
+ Solved for 830-th column 
+
+ Solved for 831-th column 
+
+ Solved for 832-th column 
+
+ Solved for 833-th column 
+
+ Solved for 834-th column 
+
+ Solved for 835-th column 
+
+ Solved for 836-th column 
+
+ Solved for 837-th column 
+
+ Solved for 838-th column 
+
+ Solved for 839-th column 
+
+ Solved for 840-th column 
+
+ Solved for 841-th column 
+
+ Solved for 842-th column 
+
+ Solved for 843-th column 
+
+ Solved for 844-th column 
+
+ Solved for 845-th column 
+
+ Solved for 846-th column 
+
+ Solved for 847-th column 
+
+ Solved for 848-th column 
+
+ Solved for 849-th column 
+
+ Solved for 850-th column 
+
+ Solved for 851-th column 
+
+ Solved for 852-th column 
+
+ Solved for 853-th column 
+
+ Solved for 854-th column 
+
+ Solved for 855-th column 
+
+ Solved for 856-th column 
+
+ Solved for 857-th column 
+
+ Solved for 858-th column 
+
+ Solved for 859-th column 
+
+ Solved for 860-th column 
+
+ Solved for 861-th column 
+
+ Solved for 862-th column 
+
+ Solved for 863-th column 
+
+ Solved for 864-th column 
+
+ Solved for 865-th column 
+
+ Solved for 866-th column 
+
+ Solved for 867-th column 
+
+ Solved for 868-th column 
+
+ Solved for 869-th column 
+
+ Solved for 870-th column 
+
+ Solved for 871-th column 
+
+ Solved for 872-th column 
+
+ Solved for 873-th column 
+
+ Solved for 874-th column 
+
+ Solved for 875-th column 
+
+ Solved for 876-th column 
+
+ Solved for 877-th column 
+
+ Solved for 878-th column 
+
+ Solved for 879-th column 
+
+ Solved for 880-th column 
+
+ Solved for 881-th column 
+
+ Solved for 882-th column 
+
+ Solved for 883-th column 
+
+ Solved for 884-th column 
+
+ Solved for 885-th column 
+
+ Solved for 886-th column 
+
+ Solved for 887-th column 
+
+ Solved for 888-th column 
+
+ Solved for 889-th column 
+
+ Solved for 890-th column 
+
+ Solved for 891-th column 
+
+ Solved for 892-th column 
+
+ Solved for 893-th column 
+
+ Solved for 894-th column 
+
+ Solved for 895-th column 
+
+ Solved for 896-th column 
+
+ Solved for 897-th column 
+
+ Solved for 898-th column 
+
+ Solved for 899-th column 
+
+ Solved for 900-th column 
+
+ Solved for 901-th column 
+
+ Solved for 902-th column 
+
+ Solved for 903-th column 
+
+ Solved for 904-th column 
+
+ Solved for 905-th column 
+
+ Solved for 906-th column 
+
+ Solved for 907-th column 
+
+ Solved for 908-th column 
+
+ Solved for 909-th column 
+
+ Solved for 910-th column 
+
+ Solved for 911-th column 
+
+ Solved for 912-th column 
+
+ Solved for 913-th column 
+
+ Solved for 914-th column 
+
+ Solved for 915-th column 
+
+ Solved for 916-th column 
+
+ Solved for 917-th column 
+
+ Solved for 918-th column 
+
+ Solved for 919-th column 
+
+ Solved for 920-th column 
+
+ Solved for 921-th column 
+
+ Solved for 922-th column 
+
+ Solved for 923-th column 
+
+ Solved for 924-th column 
+
+ Solved for 925-th column 
+
+ Solved for 926-th column 
+
+ Solved for 927-th column 
+
+ Solved for 928-th column 
+
+ Solved for 929-th column 
+
+ Solved for 930-th column 
+
+ Solved for 931-th column 
+
+ Solved for 932-th column 
+
+ Solved for 933-th column 
+
+ Solved for 934-th column 
+
+ Solved for 935-th column 
+
+ Solved for 936-th column 
+
+ Solved for 937-th column 
+
+ Solved for 938-th column 
+
+ Solved for 939-th column 
+
+ Solved for 940-th column 
+
+ Solved for 941-th column 
+
+ Solved for 942-th column 
+
+ Solved for 943-th column 
+
+ Solved for 944-th column 
+
+ Solved for 945-th column 
+
+ Solved for 946-th column 
+
+ Solved for 947-th column 
+
+ Solved for 948-th column 
+
+ Solved for 949-th column 
+
+ Solved for 950-th column 
+
+ Solved for 951-th column 
+
+ Solved for 952-th column 
+
+ Solved for 953-th column 
+
+ Solved for 954-th column 
+
+ Solved for 955-th column 
+
+ Solved for 956-th column 
+
+ Solved for 957-th column 
+
+ Solved for 958-th column 
+
+ Solved for 959-th column 
+
+ Solved for 960-th column 
+
+ Solved for 961-th column 
+
+ Solved for 962-th column 
+
+ Solved for 963-th column 
+
+ Solved for 964-th column 
+
+ Solved for 965-th column 
+
+ Solved for 966-th column 
+
+ Solved for 967-th column 
+
+ Solved for 968-th column 
+
+ Solved for 969-th column 
+
+ Solved for 970-th column 
+
+ Solved for 971-th column 
+
+ Solved for 972-th column 
+
+ Solved for 973-th column 
+
+ Solved for 974-th column 
+
+ Solved for 975-th column 
+
+ Solved for 976-th column 
+
+ Solved for 977-th column 
+
+ Solved for 978-th column 
+
+ Solved for 979-th column 
+
+ Solved for 980-th column 
+
+ Solved for 981-th column 
+
+ Solved for 982-th column 
+
+ Solved for 983-th column 
+
+ Solved for 984-th column 
+
+ Solved for 985-th column 
+
+ Solved for 986-th column 
+
+ Solved for 987-th column 
+
+ Solved for 988-th column 
+
+ Solved for 989-th column 
+
+ Solved for 990-th column 
+
+ Solved for 991-th column 
+
+ Solved for 992-th column 
+
+ Solved for 993-th column 
+
+ Solved for 994-th column 
+
+ Solved for 995-th column 
+
+ Solved for 996-th column 
+
+ Solved for 997-th column 
+
+ Solved for 998-th column 
+
+ Solved for 999-th column 
+
+ Time got G^-1 * P : 194325.234375 secs :
+
+ vec2 = 
+ -0.024900 -0.037350 -0.054039 -0.047193 -0.057204 -0.051359 -0.059844 -0.054820 -0.062107 -0.057729 -0.064088 -0.060220 -0.065849 -0.062390 -0.067433 -0.064308 -0.068874 -0.066025 -0.070194 -0.067577 -0.071413 -0.068994 -0.072544 -0.070296 -0.073600 -0.071500 -0.074590 -0.072620 -0.075522 -0.073666 -0.076402 -0.074649 -0.077235 -0.075574 -0.078027 -0.076448 -0.078781 -0.077277 -0.079500 -0.078065 -0.080188 -0.078815 -0.080848 -0.079532 -0.081481 -0.080217 -0.082089 -0.080874 -0.082675 -0.081505 -0.083240 -0.082112 -0.083785 -0.082696 -0.084312 -0.083259 -0.084822 -0.083803 -0.085315 -0.084329 -0.085794 -0.084838 -0.086259 -0.085330 -0.086710 -0.085808 -0.087149 -0.086272 -0.087575 -0.086723 -0.087990 -0.087160 -0.088395 -0.087586 -0.088789 -0.088001 -0.089174 -0.088405 -0.089549 -0.088799 -0.089916 -0.089183 -0.090274 -0.089558 -0.090624 -0.089924 -0.090966 -0.090282 -0.091301 -0.090632 -0.091629 -0.090974 -0.091950 -0.091308 -0.092265 -0.091636 -0.092573 -0.091957 -0.092876 -0.092271 -0.093172 -0.092579 -0.093463 -0.092881 -0.093748 -0.093178 -0.094029 -0.093468 -0.094304 -0.093754 -0.094575 -0.094034 -0.094840 -0.094309 -0.095102 -0.094579 -0.095358 -0.094845 -0.095611 -0.095106 -0.095859 -0.095363 -0.096104 -0.095615 -0.096345 -0.095863 -0.096582 -0.096108 -0.096815 -0.096348 -0.097045 -0.096585 -0.097271 -0.096818 -0.097494 -0.097048 -0.097714 -0.097274 -0.097930 -0.097497 -0.098144 -0.097717 -0.098354 -0.097933 -0.098562 -0.098147 -0.098767 -0.098357 -0.098969 -0.098565 -0.099168 -0.098769 -0.099365 -0.098971 -0.099559 -0.099171 -0.099751 -0.099367 -0.099940 -0.099561 -0.100127 -0.099753 -0.100311 -0.099942 -0.100494 -0.100129 -0.100674 -0.100314 -0.100852 -0.100496 -0.101027 -0.100676 -0.101201 -0.100854 -0.101373 -0.101029 -0.101542 -0.101203 -0.101710 -0.101375 -0.101876 -0.101544 -0.102040 -0.101712 -0.102202 -0.101878 -0.102362 -0.102041 -0.102521 -0.102204 -0.102678 -0.102364 -0.102833 -0.102522 -0.102986 -0.102679 -0.103138 -0.102834 -0.103289 -0.102988 -0.103437 -0.103140 -0.103584 -0.103290 -0.103730 -0.103439 -0.103874 -0.103586 -0.104017 -0.103732 -0.104159 -0.103876 -0.104299 -0.104019 -0.104437 -0.104160 -0.104574 -0.104300 -0.104710 -0.104438 -0.104845 -0.104576 -0.104978 -0.104712 -0.105110 -0.104846 -0.105241 -0.104979 -0.105371 -0.105111 -0.105499 -0.105242 -0.105626 -0.105372 -0.105752 -0.105500 -0.105877 -0.105627 -0.106001 -0.105753 -0.106124 -0.105878 -0.106245 -0.106002 -0.106366 -0.106125 -0.106485 -0.106246 -0.106604 -0.106367 -0.106721 -0.106486 -0.106838 -0.106605 -0.106953 -0.106722 -0.107067 -0.106838 -0.107181 -0.106954 -0.107293 -0.107068 -0.107405 -0.107182 -0.107515 -0.107294 -0.107625 -0.107406 -0.107734 -0.107516 -0.107842 -0.107626 -0.107949 -0.107735 -0.108055 -0.107842 -0.108160 -0.107949 -0.108265 -0.108056 -0.108368 -0.108161 -0.108471 -0.108265 -0.108573 -0.108369 -0.108674 -0.108472 -0.108774 -0.108574 -0.108874 -0.108675 -0.108973 -0.108775 -0.109071 -0.108875 -0.109168 -0.108974 -0.109265 -0.109072 -0.109361 -0.109169 -0.109456 -0.109265 -0.109550 -0.109361 -0.109644 -0.109456 -0.109737 -0.109551 -0.109829 -0.109644 -0.109921 -0.109737 -0.110012 -0.109830 -0.110102 -0.109921 -0.110191 -0.110012 -0.110280 -0.110102 -0.110369 -0.110192 -0.110456 -0.110281 -0.110543 -0.110369 -0.110630 -0.110457 -0.110715 -0.110544 -0.110801 -0.110630 -0.110885 -0.110716 -0.110969 -0.110801 -0.111052 -0.110886 -0.111135 -0.110970 -0.111217 -0.111053 -0.111299 -0.111136 -0.111380 -0.111218 -0.111461 -0.111300 -0.111541 -0.111381 -0.111620 -0.111461 -0.111699 -0.111541 -0.111777 -0.111620 -0.111855 -0.111699 -0.111932 -0.111777 -0.112009 -0.111855 -0.112085 -0.111932 -0.112160 -0.112009 -0.112236 -0.112085 -0.112310 -0.112161 -0.112384 -0.112236 -0.112458 -0.112311 -0.112531 -0.112385 -0.112604 -0.112458 -0.112676 -0.112532 -0.112748 -0.112604 -0.112819 -0.112676 -0.112890 -0.112748 -0.112960 -0.112819 -0.113030 -0.112890 -0.113099 -0.112960 -0.113168 -0.113030 -0.113236 -0.113099 -0.113304 -0.113168 -0.113372 -0.113237 -0.113439 -0.113305 -0.113506 -0.113372 -0.113572 -0.113440 -0.113638 -0.113506 -0.113703 -0.113572 -0.113768 -0.113638 -0.113833 -0.113704 -0.113897 -0.113769 -0.113961 -0.113833 -0.114024 -0.113897 -0.114087 -0.113961 -0.114150 -0.114024 -0.114212 -0.114087 -0.114274 -0.114150 -0.114335 -0.114212 -0.114396 -0.114274 -0.114456 -0.114335 -0.114517 -0.114396 -0.114576 -0.114457 -0.114636 -0.114517 -0.114695 -0.114577 -0.114754 -0.114636 -0.114812 -0.114695 -0.114870 -0.114754 -0.114927 -0.114812 -0.114985 -0.114870 -0.115041 -0.114928 -0.115098 -0.114985 -0.115154 -0.115042 -0.115210 -0.115098 -0.115265 -0.115154 -0.115320 -0.115210 -0.115375 -0.115266 -0.115430 -0.115321 -0.115484 -0.115375 -0.115537 -0.115430 -0.115591 -0.115484 -0.115644 -0.115538 -0.115697 -0.115591 -0.115749 -0.115644 -0.115801 -0.115697 -0.115853 -0.115749 -0.115904 -0.115801 -0.115956 -0.115853 -0.116006 -0.115905 -0.116057 -0.115956 -0.116107 -0.116007 -0.116157 -0.116057 -0.116206 -0.116107 -0.116157 -0.116256 -0.116207 -0.116305 -0.116256 -0.116353 -0.116305 -0.116402 -0.116353 -0.116450 -0.116402 -0.116497 -0.116450 -0.116545 -0.116497 -0.116592 -0.116545 -0.116639 -0.116592 -0.116685 -0.116639 -0.116732 -0.116685 -0.116777 -0.116732 -0.116823 -0.116778 -0.116869 -0.116823 -0.116914 -0.116869 -0.116959 -0.116914 -0.117003 -0.116959 -0.117047 -0.117003 -0.117091 -0.117047 -0.117135 -0.117091 -0.117178 -0.117135 -0.117222 -0.117179 -0.117265 -0.117222 -0.117307 -0.117265 -0.117350 -0.117307 -0.117392 -0.117350 -0.117433 -0.117392 -0.117475 -0.117434 -0.117516 -0.117475 -0.117557 -0.117516 -0.117598 -0.117557 -0.117639 -0.117598 -0.117679 -0.117639 -0.117719 -0.117679 -0.117759 -0.117719 -0.117798 -0.117759 -0.117837 -0.117798 -0.117876 -0.117837 -0.117915 -0.117876 -0.117954 -0.117915 -0.117992 -0.117954 -0.118030 -0.117992 -0.118067 -0.118030 -0.118105 -0.118068 -0.118142 -0.118105 -0.118179 -0.118142 -0.118216 -0.118179 -0.118253 -0.118216 -0.118289 -0.118253 -0.118325 -0.118289 -0.118361 -0.118325 -0.118396 -0.118361 -0.118432 -0.118396 -0.118467 -0.118432 -0.118502 -0.118467 -0.118536 -0.118502 -0.118571 -0.118536 -0.118605 -0.118571 -0.118639 -0.118605 -0.118672 -0.118639 -0.118706 -0.118673 -0.118739 -0.118706 -0.118772 -0.118739 -0.118805 -0.118772 -0.118838 -0.118805 -0.118870 -0.118838 -0.118902 -0.118870 -0.118934 -0.118902 -0.118966 -0.118934 -0.118997 -0.118966 -0.119029 -0.118997 -0.119060 -0.119029 -0.119090 -0.119060 -0.119121 -0.119091 -0.119151 -0.119121 -0.119182 -0.119152 -0.119212 -0.119182 -0.119241 -0.119212 -0.119271 -0.119241 -0.119300 -0.119271 -0.119329 -0.119300 -0.119358 -0.119330 -0.119387 -0.119358 -0.119416 -0.119387 -0.119444 -0.119416 -0.119472 -0.119444 -0.119500 -0.119472 -0.119527 -0.119500 -0.119555 -0.119528 -0.119582 -0.119555 -0.119609 -0.119582 -0.119636 -0.119609 -0.119663 -0.119636 -0.119689 -0.119663 -0.119715 -0.119689 -0.119742 -0.119716 -0.119767 -0.119742 -0.119793 -0.119767 -0.119818 -0.119793 -0.119844 -0.119819 -0.119869 -0.119844 -0.119894 -0.119869 -0.119918 -0.119894 -0.119943 -0.119918 -0.119967 -0.119943 -0.119991 -0.119967 -0.120015 -0.119991 -0.120039 -0.120015 -0.120062 -0.120039 -0.120086 -0.120062 -0.120109 -0.120086 -0.120132 -0.120109 -0.120154 -0.120132 -0.120177 -0.120154 -0.120199 -0.120177 -0.120221 -0.120199 -0.120243 -0.120222 -0.120265 -0.120244 -0.120287 -0.120265 -0.120308 -0.120287 -0.120330 -0.120308 -0.120351 -0.120330 -0.120371 -0.120351 -0.120392 -0.120372 -0.120413 -0.120392 -0.120433 -0.120413 -0.120453 -0.120433 -0.120473 -0.120453 -0.120493 -0.120473 -0.120512 -0.120493 -0.120532 -0.120512 -0.120551 -0.120532 -0.120570 -0.120551 -0.120589 -0.120570 -0.120608 -0.120589 -0.120626 -0.120608 -0.120644 -0.120626 -0.120662 -0.120644 -0.120680 -0.120663 -0.120698 -0.120681 -0.120716 -0.120698 -0.120733 -0.120716 -0.120751 -0.120733 -0.120768 -0.120751 -0.120784 -0.120768 -0.120801 -0.120785 -0.120818 -0.120801 -0.120834 -0.120818 -0.120850 -0.120834 -0.120866 -0.120850 -0.120882 -0.120866 -0.120898 -0.120882 -0.120913 -0.120898 -0.120929 -0.120913 -0.120944 -0.120929 -0.120959 -0.120944 -0.120974 -0.120959 -0.120988 -0.120974 -0.121003 -0.120988 -0.121017 -0.121003 -0.121031 -0.121017 -0.121045 -0.121031 -0.121059 -0.121045 -0.121072 -0.121059 -0.121086 -0.121073 -0.121099 -0.121086 -0.121112 -0.121099 -0.121125 -0.121112 -0.121138 -0.121125 -0.121151 -0.121138 -0.121163 -0.121151 -0.121175 -0.121163 -0.121187 -0.121175 -0.121199 -0.121187 -0.121211 -0.121199 -0.121223 -0.121211 -0.121234 -0.121223 -0.121245 -0.121234 -0.121256 -0.121245 -0.121267 -0.121256 -0.121278 -0.121267 -0.121289 -0.121278 -0.121299 -0.121289 -0.121309 -0.121299 -0.121319 -0.121309 -0.121329 -0.121319 -0.121339 -0.121329 -0.121349 -0.121339 -0.121358 -0.121349 -0.121367 -0.121358 -0.121377 -0.121367 -0.121385 -0.121377 -0.121394 -0.121386 -0.121403 -0.121394 -0.121411 -0.121403 -0.121420 -0.121411 -0.121428 -0.121420 -0.121436 -0.121428 -0.121443 -0.121436 -0.121451 -0.121444 -0.121459 -0.121451 -0.121466 -0.121459 -0.121473 -0.121466 -0.121480 -0.121473 -0.121487 -0.121480 -0.121494 -0.121487 -0.121500 -0.121494 -0.121506 -0.121500 -0.121513 -0.121506 -0.121519 -0.121513 -0.121524 -0.121519 -0.121530 -0.121524 -0.121536 -0.121530 -0.121541 -0.121536 -0.121546 -0.121541 -0.121551 -0.121546 -0.121556 -0.121551 -0.121561 -0.121556 -0.121565 -0.121561 -0.121570 -0.121566 -0.121574 -0.121570 -0.121578 -0.121574 -0.121582 -0.121578 -0.121586 -0.121582 -0.121590 -0.121586 -0.121593 -0.121590 -0.121596 -0.121593 -0.121599 -0.121596 -0.121602 -0.121600 -0.121605 -0.121602 -0.121608 -0.121605 -0.121610 -0.121608 -0.121613 -0.121610 -0.121615 -0.121613 -0.121617 -0.121615 -0.121619 -0.121617 -0.121620 -0.121619 -0.121622 -0.121621 -0.121623 -0.121622 -0.121625 -0.121623 -0.121626 -0.121625 -0.121627 -0.121626 -0.121627 -0.121627 -0.121628 -0.121627 -0.121628 -0.121628 -0.121629 -0.121628 -0.121629 -0.121629 -0.037350 -0.121629 -0.042272 -0.044878 -0.050092
+
+ res1 = res1 - b2 done

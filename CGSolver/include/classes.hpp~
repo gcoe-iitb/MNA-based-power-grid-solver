@@ -1,0 +1,59 @@
+class node
+{
+	public:
+		int node_id,no_neighbor;
+		vector<int> neighbor_id;
+		vector<int> incident_edge_id;
+		vector<int> voltage_neighbor_id;
+		vector<int> current_neighbor_id;
+		float node_potential;
+		node(): no_neighbor(0),node_potential(0)
+		{}
+		~node(){}
+};
+
+class edge
+{
+	public:
+		node* s_node;
+		node* e_node;
+		char type;
+		//char type;
+		float value;
+		float branch_voltage;
+		float branch_current;
+	edge(): value(0),branch_voltage(0),branch_current(0)
+	{}
+	~edge(){}
+};
+
+
+class graph
+{
+	public:
+		int no_nodes,no_edges,nonzero;
+		double** M;
+		//double* b;
+		double* x;
+		//vector<float> Mat_values;
+		//vector<int> Row_index,Col_index;
+		_INTEGER_t* rowIndex;
+		_INTEGER_t* columns;
+		_DOUBLE_PRECISION_t* b;
+		_DOUBLE_PRECISION_t* Mat_val;
+		vector<node> node_array;
+		vector<edge> edge_array;
+		vector<int> voltage_edge_id;
+		vector<int> current_edge_id;
+		void create_graph(char*);
+		void output_graph_stdout();
+		int construct_MNA();
+		int construct_sparse_MNA();
+		int fillup_graph();
+		void check_kcl();
+
+	graph(): no_nodes(0),no_edges(0)
+	{}
+	~graph(){}
+};
+

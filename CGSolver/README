@@ -1,0 +1,7 @@
+CGSOLVER using cuBlas and cuSparse
+
+In the makefile, please set the CUDAROOT variable to point to your CUDA folder
+
+In main.cpp, the tolerance can be set using the "tol" variable.
+
+
